@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Prova","image":"https://media.istockphoto.com/id/1218975473/it/foto/gruppo-di-studenti-universitari-che-si-incontrano-e-parlano-nellaffollato-edificio-del-campus.jpg?s=1024x1024&w=is&k=20&c=VpxGCcBxdm5fqiszN8JfB9FF3O9VnXemMuODsNWF1Ks=","date":"2025-08-21","description":"Prova","id":"97ca19ef-e511-491d-902c-d5352a67f066"},{"title":"Test Redirect","image":"https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","date":"2025-08-22","description":"Test Redirect","id":"2023075b-5a44-4086-bea6-62d027a31369"},{"title":"Test 3","image":"https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D","date":"2025-08-26","description":"Test 3","id":"e7e695bc-d75c-4cb6-9b58-fa34535e0992"},{"title":"Test 2","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","date":"2025-08-26","description":"Test 2","id":"5bf45c0c-9086-4655-8405-ee6310122fe8"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
